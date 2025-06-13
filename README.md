@@ -5,7 +5,9 @@ Cool Features and Essentials for Hypixel Freebuilds.
 ### Many useful redirection commands
 ![Commands for Infos about FCM and Freebuilds](https://cdn.modrinth.com/data/cached_images/d8f428889232ea543423e47ce7822d3b0fe50216.png)
 ### New ProTools!
+
 **Custom Messages for receiving a tool**
+
 ![Custom Message1](https://cdn.modrinth.com/data/cached_images/7c4506fb6b74b2781dfa4682eee647f9da41053f.png)
 
 **Custom Block Selection Messages**
